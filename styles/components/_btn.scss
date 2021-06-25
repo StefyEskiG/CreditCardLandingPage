@@ -1,0 +1,14 @@
+.btn {
+  color: #fff;
+  padding: 0.9rem 2.5rem;
+  background-color: #6e4dc3;
+  border: none;
+  font-size: 1.6em;
+  font-weight: 700;
+  cursor: pointer;
+
+  &--transparent {
+    font-weight: 400;
+    background-color: transparent;
+  }
+}
